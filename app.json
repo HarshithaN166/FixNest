@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "FixNest",
+    "slug": "fix-nest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/FixNest.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/FixNest.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/FixNest.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/FixNest.png"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "pro_1785783484379",
+    "name": "Harshitha N",
+    "phone": "9686341322",
+    "email": "harshithan166@gmail.com",
+    "bio": "i am an ac service provider",
+    "experience": "10+ years",
+    "workingAreas": [
+      "Bangalore"
+    ],
+    "currentLocation": {
+      "city": "Bangalore"
+    },
+    "availability": true,
+    "services": [
+      "electrician",
+      "ac-service"
+    ],
+    "photoUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "completedJobs": 0,
+    "registeredAt": "2026-08-03T18:58:04.379Z",
+    "deviceId": "dev_1786118195095_70m0m89da"
+  },
+  {
+    "id": "pro_1786039776844",
+    "name": "Harshitha N",
+    "phone": "9686341322",
+    "email": "harshithan166@gmail.com",
+    "bio": "electrician",
+    "experience": "3 years",
+    "workingAreas": [
+      "Bangalore"
+    ],
+    "currentLocation": {
+      "city": "Bangalore"
+    },
+    "availability": true,
+    "services": [
+      "electrician"
+    ],
+    "photoUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=300&q=80",
+    "rating": 5,
+    "completedJobs": 0,
+    "registeredAt": "2026-08-06T18:09:36.844Z",
+    "deviceId": "dev_1786118195093_hkb86dypj"
+  }
+]
